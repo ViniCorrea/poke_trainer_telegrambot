@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pokebase
+python-telegram-bot
+pydantic
+pydantic-settings
+python-dotenv
